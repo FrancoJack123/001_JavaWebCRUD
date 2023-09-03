@@ -25,7 +25,6 @@
     </head>
     <body>
         <div class="container mt-5">
-            <h1>Hola</h1>
             <div class="card mb-4">
                 <div class="card-header">
                     <i class="fas fa-table me-1"></i>
