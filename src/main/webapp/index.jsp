@@ -26,7 +26,6 @@
     <body>
         <div class="container mt-5">
             <div class="card mb-4">
-                <h2>Hola</h2>
                 <div class="card-header">
                     <i class="fas fa-table me-1"></i>
                     DataTable Example
