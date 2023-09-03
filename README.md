@@ -23,12 +23,6 @@ Para el desarrollo y despliegue, se recomienda el uso de [NetBeans](https://netb
 
 ---
 
-## Demostración en Vivo
-
-Puedes ver una demostración en vivo de la aplicación [aquí](enlace_a_la_demo_en_vivo).
-
----
-
 ## Instalación
 
 A continuación, se detallan los pasos para instalar y ejecutar la aplicación JavaWebCRUD en tu entorno local:
