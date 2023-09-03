@@ -5,11 +5,16 @@ Les traigo un CRUD hecho en Java Web utilizando como motor de base de datos a My
 ## Descripción
 
 JavaWebCRUD es una aplicación de gestión que permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en una base de datos MySQL. Este proyecto está desarrollado utilizando los siguientes lenguajes y tecnologías:
-
-- ![Java Icon](https://fontawesome.com/icons/java?style=brands) Java
-- ![JavaScript Icon](https://fontawesome.com/icons/js?style=brands) JavaScript
-- ![jQuery Icon](https://fontawesome.com/icons/jQuery?style=brands) jQuery
-- ![Bootstrap Icon](https://fontawesome.com/icons/bootstrap?style=brands) Bootstrap
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+      </div>
 
 Para el desarrollo y despliegue, se recomienda el uso de [NetBeans](https://netbeans.org/) y [Apache Tomcat](https://tomcat.apache.org/) (versión 9).
 
