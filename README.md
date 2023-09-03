@@ -17,9 +17,9 @@ Para el desarrollo y despliegue, se recomienda el uso de [NetBeans](https://netb
 
 ## Captura de Pantalla
 
-![Captura de pantalla](enlace_a_la_captura_de_pantalla.png)
+![Captura de pantalla](https://github.com/FrancoJack123/001_JavaWebCRUD/blob/master/MySQL/Captura.PNG)
 
-*Descripción de la captura de pantalla.*
+*En esta imagen se observa el diseño de nuestro CRUD*
 
 ---
 
